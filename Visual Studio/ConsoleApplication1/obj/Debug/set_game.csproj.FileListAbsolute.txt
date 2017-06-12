@@ -1,0 +1,18 @@
+C:\Users\lg\Desktop\ownsetgame\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\lg\Desktop\ownsetgame\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\lg\Desktop\ownsetgame\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\lg\Desktop\ownsetgame\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\deniz\Downloads\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\deniz\Downloads\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\deniz\Downloads\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\deniz\Downloads\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\lg\Desktop\ssoooonnnn\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\lg\Desktop\ssoooonnnn\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\lg\Desktop\ssoooonnnn\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\lg\Desktop\ssoooonnnn\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\lg\Desktop\ssoooonnnn\ConsoleApplication1\ConsoleApplication1\obj\Debug\set_game.csprojResolveAssemblyReference.cache
+C:\Users\lg\Desktop\Project Based Learning I\PROJECT 2 - SET GAME\sonhal\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\lg\Desktop\Project Based Learning I\PROJECT 2 - SET GAME\sonhal\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\lg\Desktop\Project Based Learning I\PROJECT 2 - SET GAME\sonhal\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\lg\Desktop\Project Based Learning I\PROJECT 2 - SET GAME\sonhal\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\lg\Desktop\Project Based Learning I\PROJECT 2 - SET GAME\sonhal\ConsoleApplication1\ConsoleApplication1\obj\Debug\set_game.csprojResolveAssemblyReference.cache
